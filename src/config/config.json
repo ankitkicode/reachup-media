@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "ReachUp Media",
+    "base_url": "https://reachup-media.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "",
+    "logo_width": "160",
+    "logo_height": "45",
+    "logo_text": "ReachUp Media"
+  },
+  "settings": {
+    "sticky_header": true
+  },
+  "params": {
+    "contact_form_action": "#",
+    "checklist_form_action": "#",
+    "apply_form_action": "#",
+    "copyright": "Copyright &copy; 2026 <strong>ReachUp Media</strong> All Rights Reserved",
+    "footer_tagline": "Your Brand. Our Reach.",
+    "footer_email": "hello@reachupmedia.com",
+    "footer_phone": "+91 9876543210"
+  },
+  "navigation_button": {
+    "enable": true,
+    "label": "Let's Talk",
+    "link": "/contact"
+  },
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+  "metadata": {
+    "meta_author": "ReachUp Media",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "A creative digital marketing & media agency focused on helping local businesses build a strong online presence and get noticed."
+  }
+}
