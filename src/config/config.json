@@ -5,9 +5,9 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "",
-    "logo_width": "160",
-    "logo_height": "45",
+    "logo": "/images/logo.jpg",
+    "logo_width": "60",
+    "logo_height": "60",
     "logo_text": "ReachUp Media"
   },
   "settings": {
